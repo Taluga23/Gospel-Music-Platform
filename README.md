@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/Logo.png" width="300" alt=" Gospel Music Platform Logo">
+  <img src="ASSET/Logo.png" width="300" alt=" Gospel Music Platform Logo">
 </p>
 
 # Gospel Music Platform
