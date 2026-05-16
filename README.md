@@ -1,4 +1,6 @@
-# Gospel-Music-Platform
+<p align="center">
+  <img src="Assets/logo.png" width="300" alt="Accommodate Me Logo">
+</p>
 >A responsive gospel music website built with HTML and CSS to share gospel songs, worship events, and provide a contact platform for users.
 # Gospel Music Platform
 
