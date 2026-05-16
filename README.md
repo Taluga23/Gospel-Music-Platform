@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="Assets/logo.png" width="300" alt="Accommodate Me Logo">
+  <img src="Assets/Logo.png" width="300" alt=" Gospel Music Platform Logo">
 </p>
->A responsive gospel music website built with HTML and CSS to share gospel songs, worship events, and provide a contact platform for users.
+
 # Gospel Music Platform
+>A responsive gospel music website built with HTML and CSS to share gospel songs, worship events, and provide a contact platform for users.
 
 ## The Problem
 Many gospel ministries and worship communities lack simple and affordable online platforms to share gospel music, announce worship events, and communicate with followers. This limits access to inspirational content and event information for people outside physical gatherings.
