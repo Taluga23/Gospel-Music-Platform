@@ -9,25 +9,64 @@ body {
     margin: 0;
     padding: 0;
 }
+/*========== HEADER SECTION========== */
+.main-header {
+  background-color: #f9f7f2;
+  padding: 15px 0;
+  width: 100%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 1);
+  top: 0;
+  z-index: 1000;
+  margin-top: 0;
+  position: absolute;
+}
 
-/* Header */
- header {
-    background-color: #3b5998;
-    color: white;
-    text-align: center;
-    padding: 20px;
- }
+.header-container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
 
- nav a {
-    color: #ffeb3b;
-    text-decoration: none;
-    margin: 0 15px;
-    font-weight: bold;
- }
+/* Logo Styling */
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
 
- nav a:hover {
-    text-decoration: underline;
- }
+.logo-img {
+  height: 50px;
+  width: auto;
+}
+
+.logo h1 {
+  font-size: 1.2rem;
+  color: #2d4a3e;
+  letter-spacing: 1px;
+}
+
+/* NAVIGATION BAR LINKS */
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  white-space: nowrap;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.nav-links a:hover {
+  color: #f6920f;
+}
 
 /* Main Content */
 main {
