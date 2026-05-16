@@ -5,6 +5,13 @@
 ## The Problem
 Many gospel ministries and worship communities lack simple and affordable online platforms to share gospel music, announce worship events, and communicate with followers. This limits access to inspirational content and event information for people outside physical gatherings.
 
+## Target Audience
+- Gospel music lovers
+- Christian worship communities
+- The Youth
+- Choir members
+- Online ministry followers
+  
 ## The Core Pillars
 - Spreading the Gospel through music
 - Promoting worship and community events
