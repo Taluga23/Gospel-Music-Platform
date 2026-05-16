@@ -19,7 +19,7 @@ Many gospel ministries and worship communities lack simple and affordable online
 - Encouraging communication and engagement
 
 ## Built With
-Frnted with HTML5 and CSS3
+ **Fronted:** HTML5 and CSS3
 
 ## Features
 - Responsive homepage
